@@ -65,8 +65,3 @@ Este proyecto permite detectar y estimar poses 3D a partir de múltiples cámara
 - Los archivos `.pkl` en `camera_calibration/` se generan automáticamente al ejecutar y calibrar las cámaras con `main.py`.   
 
 ---
-
-## Contacto / Autor
-
-- Francisco Checa Laín 
-- fchecalain@correo.ugr.es
